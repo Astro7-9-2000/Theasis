@@ -11,14 +11,14 @@ Steps to follow - <br>
 <li>Copy the contents of all the files in system folder and paste it in your Systems folder.<br></li>
 <li>For MYSQL Connector intall the jar file into your system and add it to your intellij Connector by doing this - File -> Project Structure -> Libraries -> + -> New project library -> Java <br></li>
 <li>Navigate to the folder where you installed the jar file and select it.<br></li>
-  </ol>
+</ol>
 
 
 <ol>
-For Execution -
-Run Splash.java from System folder in the project directory.
-Enter the Username and password provided in the Database for Login class.
-For Reception class Enter the UserName and password for Login2 class.
+<b>For Execution -</b> <br>
+<li>Run Splash.java from System folder in the project directory.</li>
+<li>Enter the Username and password provided in the Database for Login class.</li>
+<li>For Reception class Enter the UserName and password for Login2 class.</li>
 </ol>
 
 
