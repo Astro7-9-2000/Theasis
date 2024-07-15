@@ -4,14 +4,14 @@ Steps to follow - <br>
 
 <ol>
   <li>
-Download and install Java and JDK from https://www.oracle.com/in/java/technologies/downloads/ for your system.Set the path for java to your system variables.<br></li>
-Download and install MYSQL Workbench for windows from https://dev.mysql.com/downloads/workbench/. Install the full package and not custom.<br></li>
-Download Intellij Idea from https://www.jetbrains.com/idea/ according to your system.<br></li>
-Create a new connection in MYSQL Workbench and copy the Database.sql file contents and paste it in the new script.<br></li>
-Download the icons folder and paste it in your root project folder.<br></li>
-Copy the contents of all the files in system folder and paste it in your Systems folder.<br></li>
-For MYSQL Connector intall the jar file into your system and add it to your intellij Connector by doing this - File -> Project Structure -> Libraries -> + -> New project library -> Java <br></li>
-Navigate to the folder where you installed the jar file and select it.<br></li>
+<li> Download and install Java and JDK from https://www.oracle.com/in/java/technologies/downloads/ for your system.Set the path for java to your system variables.<br></li>
+<li> Download and install MYSQL Workbench for windows from https://dev.mysql.com/downloads/workbench/. Install the full package and not custom.<br></li>
+<li> Download Intellij Idea from https://www.jetbrains.com/idea/ according to your system.<br></li>
+<li> Create a new connection in MYSQL Workbench and copy the Database.sql file contents and paste it in the new script.<br></li>
+<li>Download the icons folder and paste it in your root project folder.<br></li>
+<li>Copy the contents of all the files in system folder and paste it in your Systems folder.<br></li>
+<li>For MYSQL Connector intall the jar file into your system and add it to your intellij Connector by doing this - File -> Project Structure -> Libraries -> + -> New project library -> Java <br></li>
+<li>Navigate to the folder where you installed the jar file and select it.<br></li>
     </li>
   </ol>
 
