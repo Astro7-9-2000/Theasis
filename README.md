@@ -1,6 +1,6 @@
 # Theasis - A Hotel Management System
 <p>This is a web based Hotel Management System built using Core Java , Swing and AWT and MYSQL.<p>
-Steps to follow - <br>
+<b>Steps to follow - </b>
 
 <ol>
 <li> Download and install Java and JDK from https://www.oracle.com/in/java/technologies/downloads/ for your system.Set the path for java to your system variables.<br></li>
